@@ -1,4 +1,4 @@
-# Gridsome Portfolio Starter
+# My cool portfolio :D
 
 A simple portfolio starter theme for Gridsome
 
