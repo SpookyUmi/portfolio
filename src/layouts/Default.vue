@@ -95,10 +95,10 @@
 						Spooky Umi {{ new Date().getFullYear() }}. Website done thanks to
 						<s>Wordpress</s> JAMstack ! 😜
 					</div>
-					<!-- <div>
+					<div>
 						<a href="/rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
 						<a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
-					</div> -->
+					</div>
 				</div>
 				<!-- <ul class="flex items-center">
 					<li class="mr-8">
@@ -208,7 +208,7 @@ export default {
 		}
 	},
 	mounted() {
-		this.theme = localStorage.getItem('theme') || 'theme-light'
+		this.theme = localStorage.getItem('theme') || 'theme-dark'
 	},
 	methods: {
 		toggle() {

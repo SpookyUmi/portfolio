@@ -44,8 +44,8 @@
 						<g-image src="../../static/markups.svg" alt="markups" class="h-12 w-auto mr-4" />
 						<li class="mb-6">
 							<div>After one week of learning, I know :</div>
-							<div class="text-lg text-gray-600">- HTML</div>
-							<div class="text-lg text-gray-600">- Markdown</div>
+							<div class="text-lg">- HTML</div>
+							<div class="text-lg">- Markdown</div>
 						</li>
 					</section>
 
@@ -53,9 +53,9 @@
 						<g-image src="../../static/learnings.svg" alt="learning" class="h-12 w-auto mr-4" />
 						<li class="mb-6">
 							<div>I discovered and I'm currently learning how to use :</div>
-							<div class="text-lg text-gray-600">- Sublime Text & Visual Studio Code</div>
-							<div class="text-lg text-gray-600">- Linux Ubuntu</div>
-							<div class="text-lg text-gray-600">- Git & Github</div>
+							<div class="text-lg">- Sublime Text & Visual Studio Code</div>
+							<div class="text-lg">- Linux Ubuntu</div>
+							<div class="text-lg">- Git & Github</div>
 						</li>
 					</section>
 
@@ -63,8 +63,8 @@
 						<g-image src="../../static/projects.svg" alt="projects" class="h-12 w-auto mr-4" />
 						<li class="checkmark mb-6">
 							<div>Projects :</div>
-							<div class="text-lg text-gray-600">- Continue to learn development's languages</div>
-							<div class="text-lg text-gray-600">
+							<div class="text-lg">- Continue to learn development's languages</div>
+							<div class="text-lg">
 								- Create my own website about writing and drawing using HTML, CSS and JS
 							</div>
 						</li>
@@ -131,7 +131,7 @@
 					</p>
 
 					<div class="text-lg sm:text-lg mb-16">
-						<form action="#" class="mb-12">
+						<form action="#" class="mb-12" name="contact" netlify>
 							<div class="flex flex-wrap mb-6 -mx-4">
 								<div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
 									<label class="block mb-2 text-copy-primary" for="name">
