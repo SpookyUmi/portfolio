@@ -52,7 +52,7 @@
 					<section class="flex">
 						<g-image src="../../static/learnings.svg" alt="learning" class="h-12 w-auto mr-4" />
 						<li class="mb-6">
-							<div>I discovered and currently learning how to use :</div>
+							<div>I discovered and I'm currently learning how to use :</div>
 							<div class="text-lg text-gray-600">- Sublime Text & Visual Studio Code</div>
 							<div class="text-lg text-gray-600">- Linux Ubuntu</div>
 							<div class="text-lg text-gray-600">- Git & Github</div>
