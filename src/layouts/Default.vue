@@ -208,7 +208,7 @@ export default {
 		}
 	},
 	mounted() {
-		this.theme = localStorage.getItem('theme') || 'theme-dark'
+		this.theme = localStorage.getItem('theme') || 'theme-light'
 	},
 	methods: {
 		toggle() {
