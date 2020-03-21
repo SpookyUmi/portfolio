@@ -12,7 +12,7 @@ const postcssPlugins = [tailwind()]
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-	siteName: "Welcome to Chloe's PortfolioGridsome Portfolio Starter",
+	siteName: "Welcome to Chloe's Portfolio",
 	siteDescription: 'Get spooked: Web Development and art creator ! :3',
 	siteUrl: 'https://spookyumi.dev',
 	plugins: [
