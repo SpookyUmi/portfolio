@@ -1,6 +1,6 @@
 ---
 title: My first steps
-path: /myfirststeps
+path: /my-first-steps
 date: 2020-03-21
 summary: My first steps in Web development and an initial feedback on a long journey !🚶‍♀
 tags: ['HTML', 'Linux', 'Web Development']
