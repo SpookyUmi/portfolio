@@ -1,44 +1,37 @@
-# My cool portfolio :D
+# Welcome to Chloe's Portfolio !
+Here you can follow my learning process in **web development** and my **personal work** ! Enjoy and feel free to **contact me** !
 
-A simple portfolio starter theme for Gridsome
+## About me
+![Umi](./blog/images/about_me_avatar.jpg)
+Hi ! I'm Chloe Danisevicius, a creative and inventive person. I express myself through **artistic hobbies** that I'd love to share on this blog, such as *writing*, *drawing* and *singing*. <br>
+I'm 23 and I've been studying Speech Therapy until I heard more about **web development** in 2020. Since then, I'm an enthusiast young developer and I intend to write about my discoveries, my improvements and my projects !
 
-![screenshot](https://user-images.githubusercontent.com/4316355/55691365-a2403380-596b-11e9-93be-05b846ec7760.jpg)
+## Projects, skills and tech
+**After one week of learning, I know :**
+- HTML
+- Markdown <br>
 
-## Demo URL
+**I discovered and learn to use :** 
 
-[https://gridsome-portfolio-starter.netlify.com](https://gridsome-portfolio-starter.netlify.com)
+- Sublime Text & Visual Studio Code
+- Linux Ubuntu
+- Git & Github
 
-## Features
+**Projects :**
 
-- Clean and minimal design
-- [Tailwind CSS v1](https://tailwindcss.com) (with PurgeCSS)
-- Scroll to sections using [vue-scrollto](https://github.com/rigor789/vue-scrollto)
-- Blog with markdown content for posts
-- Documentation type that shows how to use Vue components in Markdown (click Docs)
-- Theme Switcher with Dark Mode
-- Search posts with [Fuse.js](https://fusejs.io) and [vue-fuse](https://github.com/shayneo/vue-fuse)
-- Tags for posts
-- Basic pagination
-- Syntax highlighting with [Shiki](https://shiki.matsu.io) (using [this gridsome plugin](https://gridsome.org/plugins/gridsome-plugin-remark-shiki))
-- 404 Page
-- RSS Feed
-- Sitemap in XML
+1. Continue to learn development's languages
+2. Create my own website about writing and drawing using HTML, CSS and JS
 
-## Installation
+## My first steps
+My first week of learning was really *rich*. First, I followed **Grafikart**'s HTML [course](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) : I finished it within 3 days, created my first **HTML** [website](https://spookyumi.github.io/grafikart_html/), and shared my code to my **GitHub**'s [repository](https://github.com/SpookyUmi/grafikart_html). Then, I followed **Wes Bos**' Markdown [course](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3). <br>
 
-1. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
-1. Clone the repo: `git clone https://github.com/drehimself/gridsome-portfolio-starter.git`
-1. `cd gridsome-portfolio-starter`
-1. `npm install`
-1. `gridsome develop` to start a local dev server at `http://localhost:8080`
+Fortunately, I'm not alone in that process, I've a great teacher who guides me through these first steps.
+He taught me how to use *Github's repository*, and how to *commit* and to *push* my productions through Ubuntu's terminal thanks to "Git" commands. <br>
 
-## Notes
+And because there's no small victories, I feel happy just by mastering more *keyboard shortcuts*. Thanks to that, I feel really efficient when using my laptop and my apps, as well as I feel even more **motivated** to continue my "developer training" for the days ahead. <br>
 
- - Based on my [personal portfolio website](https://andremadarang.com). I wanted to create an open source version with more features.
- - Check out a [screencast I did](https://www.youtube.com/watch?v=uHo6o1TNQeE) where I go through the process of building my website.
- - Illustrations from [unDraw](https://undraw.co)
- - Search is based on [Fuse.js](https://fusejs.io) and [vue-fuse](https://github.com/shayneo/vue-fuse). It only searches the title and summary of posts for now. Some tweaking may be necessary to get it to search to your liking. Check out the fuse documentation for search settings. A `search.json` index file is generated at build time. This happens in `gridsome.server.js`.
- - Check out these other Gridsome Starters where I got some ideas from:
-    - [Gridsome Starter Blog](https://github.com/gridsome/gridsome-starter-blog)
-    - [Gridsome Starter Bleda](https://github.com/cossssmin/gridsome-starter-bleda)
-    - [Jigsaw Starter Blog](https://jigsaw.tighten.co/docs/starter-templates/) - I got a lot of design inspiration from this starter theme.
+##### Next steps : 
+- Learning CSS
+- Learning JS
+
+Gambatte to me !!
