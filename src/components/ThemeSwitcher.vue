@@ -39,6 +39,7 @@ export default {
 	props: {
 		theme: {
 			type: String,
+			default: 'theme-dark',
 			required: true,
 		},
 	},

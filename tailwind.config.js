@@ -19,7 +19,6 @@ module.exports = {
 				primary: 'var(--bg-background-primary)',
 				secondary: 'var(--bg-background-secondary)',
 				tertiary: 'var(--bg-background-tertiary)',
-
 				form: 'var(--bg-background-form)',
 			},
 
@@ -33,22 +32,9 @@ module.exports = {
 			},
 
 			transparent: 'transparent',
-
 			black: '#000',
 			white: '#fff',
 			pink: colors.pink,
-			green: {
-				100: '#f0fff4',
-				200: '#c6f6d5',
-				300: '#9ae6b4',
-				400: '#68d391',
-				500: '#48bb78',
-				600: '#38a169',
-				700: '#2f855a',
-				800: '#276749',
-				900: '#22543d',
-			},
-
 			gray: {
 				100: '#f7fafc',
 				200: '#edf2f7',
@@ -81,10 +67,6 @@ module.exports = {
 			mono: ['Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
 		},
 	},
-	variants: {
-		// Some useful comment
-	},
-	plugins: [
-		// Some useful comment
-	],
+	variants: {},
+	plugins: [],
 }
