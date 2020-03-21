@@ -14,9 +14,9 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteName: "Welcome to Chloe's PortfolioGridsome Portfolio Starter",
+  siteDescription: 'Get spooked: Web Development and art creator ! :3',
+  siteUrl: 'https://spookyumi.dev/',
   plugins: [
     {
       use: '@gridsome/vue-remark',
