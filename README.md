@@ -1,4 +1,4 @@
-# Welcome to Chloe's Portfolio !
+# Welcome to Chloe's Portfolio
 Here you can follow my learning process in **web development** and my **personal work** ! Enjoy and feel free to **contact me** !
 
 ## About me
