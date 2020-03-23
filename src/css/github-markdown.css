@@ -522,7 +522,7 @@
   }
 
   .markdown-body blockquote {
-    border-left: .25em solid #30855A;
+    border-left: .25em solid #D53F8C;
     color: #6a737d;
     padding: 0 1em;
   }
@@ -665,6 +665,8 @@
     background-color: #fff;
     box-sizing: content-box;
     max-width: 100%;
+    /* border: solid 2px theme('colors.pink.500'); */
+    border-radius: 20px;
   }
 
   .markdown-body img[align=right] {

@@ -87,6 +87,8 @@ module.exports = {
 			externalLinksTarget: '_blank',
 			externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
 			anchorClassName: 'icon icon-link',
+			imageQuality: 100,
+			config: {},
 		},
 	},
 	css: {
