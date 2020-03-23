@@ -8,7 +8,7 @@ tags: ['Gridsome', 'static site', 'VueJS', 'Netlify', 'JavaScript', 'framework',
 
 # How this Portfolio was made ? 🏗
 
-![Credits Spooky Umi](images/02_second_article_picture.jpg "Credits : Spooky Umi")
+![Credits Spooky Umi](./images/02_second_article_picture.jpg "Credits : Spooky Umi")
 
 Today I write about the *process* and people behind this **Portfolio** ! You're here on one of Gridsome's *babies*. [Gridsome](https://gridsome.org) is a *static site generator* powered by **VueJS**.
 
