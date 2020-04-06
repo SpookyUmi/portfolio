@@ -18,7 +18,7 @@ This [game](https://flukeout.github.io/) was the first I tried (and succeed !). 
 
 ![Example](./images/03_2_third_article_picture.png)
 
-A **CSS selector** is the part of a CSS rule that describes what *elements* in a document the rule will match. The **matching elements** will have the rule's specified style applied to them. Your selector can be an single **element**, such as "body". But it can also be a **class**, such as "yolo" : then all your elements with the class "yolo" will match the rule's specified style. You can also use an **ID**, like "unicorn", then the style of all your "unicorn" elements will be set. But let's go back to our game. In CSS Diner, you'll explore selectors' possibilities for **32 levels** by releasing *cute* and *bouncing* items such as **plates**, **bentos** and **fruits**. Go try it out ! 😄
+A **CSS selector** is the part of a CSS rule that describes what *elements* in a document the rule will match. The **matching elements** will have the rule's specified style applied to them. Your selector can be an single **element**, such as 'body'. But it can also be a **class**, such as 'yolo' : then all your elements with the class 'yolo' will match the rule's specified style. You can also use an **ID**, like 'unicorn', then the style of all your 'unicorn' elements will be set. But let's go back to our game. In CSS Diner, you'll explore selectors' possibilities for **32 levels** by releasing *cute* and *bouncing* items such as **plates**, **bentos** and **fruits**. Go try it out ! 😄
 
 ## Froggy Flexbox 🐸
 
