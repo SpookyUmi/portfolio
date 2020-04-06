@@ -1,7 +1,7 @@
 ---
 title: The fun side of CSS 🎲
 path: /fun-side-of-css
-date: 2020-04-01
+date: 2020-04-06
 summary: Learning CSS is a long and sometimes challenging process, but it can also be recreational !
 tags: ['CSS', 'Games', 'Web Development', 'Flexbox', 'selectors', 'learning']
 ---
