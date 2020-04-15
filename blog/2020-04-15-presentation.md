@@ -38,13 +38,13 @@ I started my learning the **16th of March** thanks to kissu who's _mentoring_ me
 - **HTML** and attributes
 - Many shortkeys
 - Typing on a qwerty ANSI HHKB keyboard
-- **Git** commands on Linux Terminal (especially git init, add, commit and push)
-- Github
+- **Git** commands on Linux Terminal (especially `git init`, `add`, `commit` and `push`)
+- GitHub (Gitflow : using branches to organize my code)
 - VScode
 - **CSS**, Flexbox and CSSgrid
-- Watched 2 talks (Sara Vieira and Feross)
+- Watched 2 talks (Sara Vieira and Feross) and read
 - Starting to blog and updating my Twitter
-- Sharing my improvments
+- Sharing my improvements
 
 And I began learning **JS** since yesterday night (03.14.20) ! I follow [Wes Bos](https://wesbos.com/)' course.
 
