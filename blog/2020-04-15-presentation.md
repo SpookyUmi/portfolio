@@ -19,7 +19,7 @@ As you can see I love **Ghibli's universe**. Here's a _Porco Rosso_ ✈️ inspi
 ![Jacaranda](./images/04_2_fourth_article_picture.jpg)
 
 I'm also a **horse enthusiast** since 2004. I'm far from being a senior dev but I can say I'm a _senior rider_, haha. I can talk about horses and _horsemanship_ for hours. But I'll only share two thoughts about this subject :
-- Keep a **critical mind** when someone tell you about horses and how they comprehend them.
+- Keep a **critical mind** when people tell you about horses and how they comprehend them.
 - Always remember that this sport involves an **intelligent** and **sensitive** being who communicates through a **different language** that you must try to understand. "Art is the result of skill exalted by love" - *(L'art, c'est la sublimation de la technique par l'amour)* [*Nuno Oliveira*](https://fr.wikipedia.org/wiki/Nuno_Oliveira)
 
 ## My student journey 📚
