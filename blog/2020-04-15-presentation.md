@@ -24,7 +24,7 @@ I'm also a **horse enthusiast** since 2004. I'm far from being a senior dev but 
 
 ## My student journey 📚
 
-I've always been searching inspiration for studies without finding it. I tried different fields, like **biology**, and more recently, **speech therapy** that I've been learning for _3 years_. I struggled a lot thinking about _quiting_, but _deceiving_ my family and friends at the same time. And I struggled with this big question : "What do I want to do with my life ?" I'm not sure of the answer, but I know that I want to do something I like, something that allows me to express myself and that makes me learning new stuff everyday. I also love to create content and to know how things work in the background. So I searched in more artistic and creative fields, and after [kissu](https://twitter.com/kissu_io) 🍉 told me more about web development and bring me to a meetup, I started my learning.
+I've always been searching inspiration for studies without finding it. I tried different fields, like **biology**, and more recently, **speech therapy** that I've been learning for _3 years_. I struggled a lot thinking about _quiting_, but _deceiving_ my family and friends at the same time. And I struggled with this **big question** : "***What do I want to do with my life ?***" I'm not sure of the answer, but I know that I want to do something I like, something that allows me to **express myself** and that makes me **learning new stuff** everyday. I also love to create content (even shitty and dumb, as long as it makes people laugh and smile) and to know how things work in the background. So I searched in more artistic and creative fields, and after [kissu](https://twitter.com/kissu_io) 🍉 told me more about **web development** and bring me to a **meetup**, I started my learning.
 
 And that, dear reader, is how I met web development. haha
 
@@ -32,18 +32,18 @@ And that, dear reader, is how I met web development. haha
 
 ![Fairybook](./images/04_3_fourth_article_picture.png)
 
-I started my learning the 16th of March thanks to kissu who's mentoring me. Here's a list of what I've learned & done during this month :
-- HTML and attributes
+I started my learning the **16th of March** thanks to kissu who's _mentoring_ me. Here's a list of what I've _learned_ & _done_ during this month :
+- **HTML** and attributes
 - Many shortkeys
 - Typing on a qwerty ANSI HHKB keyboard
-- Git commands on Linux Terminal (especially git init, add, commit and push)
+- **Git** commands on Linux Terminal (especially git init, add, commit and push)
 - Github
 - VScode
-- CSS, Flexbox and CSSgrid
+- **CSS**, Flexbox and CSSgrid
 - Watched 2 talks (Sara Vieira and Feross)
 - Started blogging and update my Twitter
 - Sharing my improvments
 
-And I began learning JS since yesterday night (03.14.20) ! I follow [Wes Bos](https://wesbos.com/)' course.
+And I began learning **JS** since yesterday night (03.14.20) ! I follow [Wes Bos](https://wesbos.com/)' course.
 
-I have to say that I really love what I'm currently learning. The possibilities are infinite and I'm sure I'll find my place in web development, especially in frontend. We'll see where I go ! 😄
+I have to say that I really **love** what I'm currently learning. The possibilities are _infinite_ and I'm sure I'll find my place in the web development community, especially in a frontend role. We'll see where I go ! 😄
