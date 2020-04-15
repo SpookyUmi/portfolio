@@ -10,7 +10,7 @@ tags: ['Presentation', 'Inspiration', 'Web Development', 'Creativity', 'learning
 
 ## About me 🌿
 
-I'm a 23 years old **french woman** and I'm from **Bordeaux** 🍷, France. I'm a creative being, and since as long as I can remember, I love to _draw_, _write_ and _sing_. I'm not a pro in those fields but I love to share my **creations** or my voice with my loved ones. Today I'd like to share some drawings on this blog. I can't share my voice yet but don't worry, I keep singing and I plan to realize a nice project !
+I'm a 23 years old **french woman** and I'm from **Bordeaux** 🍷, France. I'm a creative being, and since as long as I can remember, I love to _draw_, _write_ and _sing_. I'm not a pro in those fields but I love to share my **creations** 🦄 or my voice with my loved ones. Today I'd like to share some drawings on this blog. I can't share my voice yet but don't worry, I keep singing and I plan to realize a nice project !
 
 ![Porco Rosso](./images/04_1_fourth_article_picture.jpg)
 
