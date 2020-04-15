@@ -30,7 +30,9 @@ And that, dear reader, is how I met web development. haha
 
 ## What's up after 1 month ? 💻
 
-![Fairybook](./images/04_3_fourth_article_picture.png)
+[1]: https://fairybook.netlify.app/
+[2]: ./images/04_3_fourth_article_picture.png
+[![Fairybook][2]][1]
 
 I started my learning the **16th of March** thanks to kissu who's _mentoring_ me. Here's a list of what I've _learned_ & _done_ during this month :
 - **HTML** and attributes
