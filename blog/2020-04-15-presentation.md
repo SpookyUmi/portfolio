@@ -10,11 +10,11 @@ tags: ['Presentation', 'Inspiration', 'Web Development', 'Creativity', 'learning
 
 ## About me 🌿
 
-I'm a 23 years old **french woman** and I'm from **Bordeaux** 🍷, France. I'm a creative being, and since as long as I can remember, I love to _draw_, _write_ and _sing_. I'm not a pro in those fields but I love to share my **creations** 🦄 or my voice with my loved ones. Today I'd like to share some drawings on this blog. I can't share my voice yet but don't worry, I keep singing and I plan to realize a nice project !
+I'm a 23 years old **french woman** and I'm from **Bordeaux** 🍷, France. I'm a creative being, and since as long as I can remember, I love to _draw_, _write_ and _sing_. I'm not a pro in those fields but I love to share my **creations** 🦄 or my voice with my loved ones. Today I'd like to share one of my drawings on this blog. I can't share my voice yet but don't worry, I keep singing and I plan to realize a nice project !
 
 ![Porco Rosso](./images/04_1_fourth_article_picture.jpg)
 
-As you can see I love **Ghibli's universe**. Here's a _Porco Rosso_ ✈️ inspiration drawing ! I made it thanks to **Procreate** on my iPad pro. It's a really instinctive app to draw using _calque_. It offers many different _brushes_ 🖌 but you can also create your own or add downloaded brushes to your inventory. The feeling is almost paperlike, with added possibilities !
+As you can see I love **Ghibli's universe**. Here's a _Porco Rosso_ ✈️ inspiration drawing ! I made it (from scratch obviously) thanks to **Procreate** on my iPad pro. It's a really instinctive app to draw using _calque_. It offers many different _brushes_ 🖌 but you can also create your own or add downloaded brushes to your inventory. The feeling is almost paperlike, with added possibilities !
 
 ![Jacaranda](./images/04_2_fourth_article_picture.jpg)
 
