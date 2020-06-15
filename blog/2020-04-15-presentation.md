@@ -46,6 +46,6 @@ I started my learning the **16th of March** thanks to kissu who's _mentoring_ me
 - Starting to blog and updating my Twitter
 - Sharing my improvements
 
-And I began learning **JS** since yesterday night (03.14.20) ! I follow [Wes Bos](https://wesbos.com/)' course.
+And I began learning **JS** since yesterday night (04.14.20) ! I follow [Wes Bos](https://wesbos.com/)' course.
 
 I have to say that I really **love** what I'm currently learning. The possibilities are _infinite_ and I'm sure I'll find my place in the web development community, especially in a Frontend role. We'll see where I go ! 😄
