@@ -12,4 +12,12 @@ It's time for another hobby of mine that I love. It's (almost) not about code, b
 
 ![](./images/)
 
-Animal Crossing is a real breath of fresh air to me. You can your own town or island to your liking and decorate your house. You make friends with cute animals villagers, catch insects and fish, watch shouting stars... In the New Horizons opus, you can even restructure your island by building mountains, rivers, paths and moving the houses.
+Animal Crossing is a real breath of fresh air to me. You can create your own town or island to your liking and decorate your house. You make friends with cute animals villagers, catch insects and fish to fill your museum, watch shouting stars... In the New Horizons opus, you can even restructure your island by building mountains, rivers, paths and moving the houses. I share with you some of my ingame screenshots.
+
+![](./images/)
+
+![](./images/)
+
+![](./images/)
+
+You can also have a lot of fun with your villagers, as they all have different personalities : For the male villagers, you'll meet cranky, jock, lazy and smug villagers. For the females, you'll find normal, peppy, snooty and uchi (big sister). Chatting with your neighbors can easily become fun and often weird, haha.
