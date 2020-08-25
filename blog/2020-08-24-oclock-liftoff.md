@@ -1,5 +1,5 @@
 ---
-title: An new adventure with O'clock
+title: A new adventure with O'clock 🚀
 path: /oclock-liftoff
 date: 2020-08-24
 summary: A quick intro to a 6 months journey !
@@ -18,7 +18,7 @@ I'm just going to talk about the specific bootcamp that I chose, but if you want
 
 ### The base
 
-- Season 1 : 
+- Season 1 :
   - **HTML**, **CSS**, Linux and **CLI**
   - Collaborating work with **Git**
 - Season 2 : 
@@ -44,8 +44,8 @@ I'm just going to talk about the specific bootcamp that I chose, but if you want
 
 ### The apotheosis
 
-One month to elaborate a team project and then present it to the O'clock team.  
-Right after that, we prepare our certificate, and that's it ! We're brand new, fresh and ready-to-go developers 😄
+**One month** to elaborate a **team project** and then present it to the O'clock team.  
+Right after that, we prepare our **certificate**, and that's it ! We're brand new, fresh and *ready-to-go developers* 😄
 
 ---
 
@@ -53,4 +53,4 @@ Right after that, we prepare our certificate, and that's it ! We're brand new, f
 
 This first day was focused on *basic CLI commands*, such as `cd`,`ls`, `mkdir`, `touch`, etc. Then we had a course about **markdown** (*the language I'm currently using to write my blog articles*) on VScode. The **teachers** are great and it is so nice to interact with the entire group. I had such a great time will learning about a subject I love. What else can I ask ? 😄
 
-Well, this article was just a small introduction about a new learning path I'm embark upon. I'll make an other article right after the bootcamp end, this way I'll share my experience after an intensive 6 months learning journey ! See you ! 👋
+Well, this article was just a small **introduction** about a new learning path I embark upon. I'll make an other article right after the bootcamp end, this way *I'll share my experience after an intensive 6 months* learning journey ! See you ! 👋
