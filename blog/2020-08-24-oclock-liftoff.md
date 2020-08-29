@@ -51,6 +51,6 @@ Right after that, we prepare our **certificate**, and that's it ! We're brand ne
 
 ## A first day, and many to come
 
-This first day was focused on *basic CLI commands*, such as `cd`,`ls`, `mkdir`, `touch`, etc. Then we had a course about **markdown** (*the language I'm currently using to write my blog articles*) on VScode. The **teachers** are great and it is so nice to interact with the entire group. I had such a great time will learning about a subject I love. What else can I ask ? 😄
+This first day was focused on *basic CLI commands*, such as `cd`,`ls`, `mkdir`, `touch`, etc. Then we had a course about **markdown** (*the language I'm currently using to write my blog articles*) on VScode. The **teachers** are great and it is so nice to interact with the entire group. I had such a great time while learning about a subject I love. What else can I ask ? 😄
 
 Well, this article was just a small **introduction** about a new learning path I embark upon. I'll make an other article right after the bootcamp end, this way *I'll share my experience after an intensive 6 months* learning journey ! See you ! 👋
