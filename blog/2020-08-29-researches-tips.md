@@ -24,18 +24,19 @@ I've been struggling about how to do an **efficient search**, not finding what I
 
 ## Good references ⭐️
 
-### Stackoverflow
-
-If you search for a solution to your code problem using several keywords, you'll probably see the [**Stackoverflow**](https://stackoverflow.com/) Question section on top result. And that's nice because it's a good reference ! But don't forget to always check the date and to read the solution but also the question, to make sure the solution is valide.
-
 ### MDN my love
 
 Of course, I can't talk about the ways to make a search without mentioning the good resources you'll find and how to use it. That's why I'll tell you more about [**MDN**](https://developer.mozilla.org/en-US/). This **web documentation** by Mozilla is a _treasure_ to all developers. But nothing's perfect, right ? So I recommend to **not type directly into the MDN website** search field. The documentation is so _abundant_ that you'll find different results for a same word. For **example**, if you're looking for the **`background` CSS property** page by typing _"background"_ or even _"background css"_, you'll get a LOT of **different articles**, and most of the time not the one you're looking for on top.  
 Instead of that, go directly on your **search engine** (Google or whatever) and type, to continue our example, _"background css mdn"_. This will **target** instantly the article you're looking for. A simple trick to avoid too much scrolling. 
 
+### Stackoverflow
+
+If you search for a **solution** to your code problem using several keywords, you'll probably see the [**Stackoverflow**](https://stackoverflow.com/) Question section on top result. And that's nice because it's a **good reference** ! But don't forget to always **check the date** and to read the solution but also the question, to make sure the solution is valid.
+
+
 ### Some useful URLs 📃
 
-Now it's time to share some good resources.
+Now it's time to share some **good resources**.
 
 - Copyright free images : [Unsplash](https://unsplash.com/)
 - Nice PNG or SVG icons : [Flaticon](https://www.flaticon.com/)
@@ -64,4 +65,4 @@ Go check them out on Twitter !
 - Sarah Drasner
 - Grafikart
 
-That's all folks ! 😉
+_That's all folks !_ 😉
