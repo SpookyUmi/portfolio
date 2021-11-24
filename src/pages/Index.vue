@@ -12,8 +12,8 @@
 
 		<div class="container-inner mx-auto">
 			<p class="text-2xl sm:text-xl md:text-xl">
-				Here you can follow my learning process in <strong>Web development</strong> and my
-				<strong>work</strong> !
+				Here you can follow my learning process in <strong>Web Development</strong> and my
+				<strong>work</strong>.
 			</p>
 			<p class="text-2xl sm:text-xl md:text-xl">
 				Enjoy and feel free to <a v-scroll-to="'#contact'" href="/#contact">contact me</a> !
@@ -43,30 +43,38 @@
 					<section class="flex">
 						<g-image src="../../static/markups.svg" alt="markups" class="h-12 w-auto mr-4" />
 						<li class="mb-6">
-							<div>After one week of learning, I know :</div>
+							<div>After one year and a half of learning :</div>
 							<div class="text-lg">- HTML</div>
 							<div class="text-lg">- Markdown</div>
+							<div class="text-lg">- Gitflow</div>
+							<div class="text-lg">- CSS3, Sass, Styled Components and Tailwind</div>
+							<div class="text-lg">- Responsive Web Design</div>
+							<div class="text-lg">- JavaScript ES6</div>
+							<div class="text-lg">- React, React Router and Redux</div>
+							<div class="text-lg">- Gatsby and Next</div>
+							<div class="text-lg">- Following the flow of modern tools that build both a better user and developer experience.</div>
 						</li>
 					</section>
 
 					<section class="flex">
 						<g-image src="../../static/learnings.svg" alt="learning" class="h-12 w-auto mr-4" />
 						<li class="mb-6">
-							<div>I discovered and I'm currently learning how to use :</div>
-							<div class="text-lg">- Sublime Text & Visual Studio Code</div>
-							<div class="text-lg">- Linux Ubuntu</div>
-							<div class="text-lg">- Git & Github</div>
+							<div>I'm still learning how to use :</div>
+							<div class="text-lg">- Vite</div>
+							<div class="text-lg">- pNpm</div>
+							<div class="text-lg">- Perfecting my usage of JavaScript and React</div>
+							<div class="text-lg">- Web performance oriented engineering</div>
 						</li>
 					</section>
 
 					<section class="flex">
 						<g-image src="../../static/projects.svg" alt="projects" class="h-12 w-auto mr-4" />
 						<li class="checkmark mb-6">
-							<div>Projects :</div>
-							<div class="text-lg">- Continue to learn development's languages</div>
-							<div class="text-lg">
-								- Create my own website about writing and drawing using HTML, CSS and JS
-							</div>
+							<div>I'd like to learn more about :</div>
+							<div class="text-lg">- WindiCSS</div>
+							<div class="text-lg">- ThreeJS</div>
+							<div class="text-lg">- VueJS and Nuxt</div>
+							<div class="text-lg">- Svelte</div>
 						</li>
 					</section>
 				</ul>
@@ -98,8 +106,8 @@
 							<strong>writing</strong>, <strong>drawing</strong> and <strong>singing</strong>.
 						</p>
 						<p>
-							I'm 23 and I've been studying Speech Therapy until I heard more about
-							<strong>web development</strong> in 2020. Since then, I'm an enthusiast young
+							I'm 25 and I've been studying Speech Therapy until I heard more about
+							<strong>web development</strong> in 2020. Since then, I'm an enthusiast
 							developer and I intend to write about my discoveries, my improvements and my projects
 							!
 						</p>
